@@ -2,7 +2,7 @@
 '''
 This extension Create a clipping layer
 
-Copyright (C) 2019 Linkscape
+Copyright (C) 2020 Linkscape
 (this is the modified program of the EraserLayer,
 Copyright (C) 2012 Jabiertxo Arraiza, jabier.arraiza@marker.es)
 --4/4 first!!
